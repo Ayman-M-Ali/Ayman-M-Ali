@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ayman-m-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ayman-m-a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayman mohammad ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayman mohammad ali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayman-mohammad-ali-7284021b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayman mohammad ali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
