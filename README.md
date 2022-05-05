@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ayman Mohammad Ali</h1>
-<h2 align="center">A frontend developer</h2>
+<h2 align="center">Frontend Developer</h2>
 
 - 🌱 I’m currently learning **React.js**
 
