@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ayman Mohammad Ali</h1>
-<h2 align="center">Frontend Developer
-<br><br>
-<p><i>"---Always Work Hard and Trust the Process---"</i></p>
-</h2>
-
+<h2 align="center">Frontend Developer</h2>
+<p align="center">"---Always Work Hard and Trust the Process---"</p>
+<br>
 <br>
 <h3>Little facts about me: 🧑</h3>
 
