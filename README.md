@@ -2,7 +2,6 @@
 <h2 align="center">Frontend Developer</h2>
 <p align="center">"---Always Work Hard and Trust the Process---"</p>
 <br>
-<br>
 <h3>Little facts about me: 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
