@@ -1,6 +1,12 @@
 <h1 align="center">Hello 👋, I'm Ayman Mohammad Ali</h1>
 <h2 align="center">Frontend Developer</h2>
-<p align="center">"---Always Work Hard and Trust the Process---"</p>
+<p align="center">" Coding like poetry should be short and concise. " =>Santosh Kalwar
+
+Do you think that self-learning can make a professional web developer able to create stunning websites?
+I'm a web developer with two years of experience in developing small and large projects using various technologies and getting more experience, and I've helped several people create their websites.
+If you'd like to work with a creative web developer, it's worth considering contacting me so we can work together and come up with the best product.
+
+I'm also eager to find the right opportunity to work as a full-time developer in a company that values innovation and teamwork. Programming is not only my job but also my hobby, and I love working with other passionate developers who share the same vision."</p>
 <br>
 <h3>Little facts about me: 🧑</h3>
 
